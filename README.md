@@ -1,2 +1,3 @@
 # Data-Mining
-Initial Commit
+
+Implementation of Decision tree and Naive bayes classification algorithm
